@@ -1,6 +1,28 @@
-body 
-{
-    color:rgb(12, 155, 107);
+body {
+    font-family: 'Cambria', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ed93d2;
+  }
+  
+  header {
+    background-color: #b2e5b9;
+    color: #ccbf06;
+    padding: 25px;
     text-align: center;
-    font-family: "Arial";
-}
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #b2e5b9;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+  }
